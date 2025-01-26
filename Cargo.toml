@@ -1,0 +1,9 @@
+[package]
+name = "secure_chat_application"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.21.3"
+rand = "0.8.5"
+uint = "0.9.5"
